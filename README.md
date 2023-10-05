@@ -9,4 +9,4 @@ Atividades da matéria Sistema de Bancos de Dados 2 da Universidade de Brasília
 * [MySQLWorkbench](https://www.mysql.com/products/workbench/) - Usada para criar e executar scripts
 
 ---
-  ⌨️ com ❤️ por [Armstrong Lohãns](https://gist.github.com/lohhans) 😊
+  ⌨️ com ❤️ por [Ingrid Carvalho](https://github.com/ingridSCarvalho) 😊
